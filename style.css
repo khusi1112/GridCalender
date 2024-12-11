@@ -1,0 +1,94 @@
+.first-div{
+    display: flex;
+    gap: 250px;
+}
+.chobi{
+    height: 300px;
+    width: 400px;
+}
+.year1{
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+    margin-bottom: 2px;
+}
+.sajano{
+    color: goldenrod;
+}
+year2{
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.year{
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: 5px;
+}
+.month1{
+    display: flex;
+    margin-left: 50px;
+    margin-bottom: 5px;
+    gap: 283px;
+}
+.month{
+    color: rgb(11, 163, 11);
+    margin-bottom: 5px;
+}
+.section{
+    display: flex;
+    gap: 24px;
+    margin-left: 50px;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+    align-items: center;
+    gap: 50px;
+}
+.thirty{
+    font-weight: 700;
+    font-size: 20px;
+    border: 2px outset bisque;
+    text-align: center;
+    border-radius: 20px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    padding: 2px;
+}
+.thirty:hover{
+    background-color: rgb(57, 79, 250);
+    color: rgb(246, 241, 245);
+}
+.fri{
+    color: red;
+}
+fri:hover{
+    background-color: black;
+    color: red;
+}
+.one{
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+    align-items: center;
+}
+.contain{
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+    align-items: center;
+}
+.month5{
+    display: flex;
+     margin-top: 20px;
+     margin-left: 51px;
+     gap: 323px;
+}
+.month2{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 51px;
+    gap: 272px;
+}
